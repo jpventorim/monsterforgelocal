@@ -17,7 +17,7 @@ django = "^6.1.1"
 django-widget-tweaks = "^1.5.1"
 opencv-python-headless = "^5.0.0.93"
 pillow = "^12.3.0"
-psycopg2-binary = "^2.9.13"
+psycopg2-binary = "^2.9.13"                                                                                                # TODO: Move to psycopg 3
 gunicorn = "^26.2.0"
 greedypacker = { url = "https://github.com/ssbothwell/greedypacker/archive/f7219917d7b84ad59ee4ed1ab8019cccf4ca3b83.zip" }
 requests = "^2.34.2"
